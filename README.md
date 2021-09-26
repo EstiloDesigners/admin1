@@ -1,1 +1,2 @@
-# admin1
+# eShop
+this is a ecommerce app for MAD assignment
